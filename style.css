@@ -1,0 +1,105 @@
+
+border-collapse: collapse;
+padding: 0;
+
+
+.tekscik 
+
+
+{FONT-SIZE: 10px; LINE-HEIGHT: 14px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none;
+padding-top: 5px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; link:#000000;}
+
+.link 
+
+
+{FONT-SIZE: 10px; LINE-HEIGHT: 14px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: underline;
+ color:#000000;}
+
+.tytul 
+
+
+{FONT-SIZE: 30px; LINE-HEIGHT: 14px; FONT-FAMILY: Techno, Impact, sans-serif;  TEXT-DECORATION: none;
+padding-top: 15px; padding-bottom: 20px; padding-left: 10px; padding-right: 10px; Background-color:#ffffff;
+color:#886633; font-weight:none; font-stretch: condensed}
+
+
+.napisik 
+
+
+{FONT-SIZE: 10px; LINE-HEIGHT: 14px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none;
+padding-top: 15px; padding-bottom: 15px; padding-left: 10px; padding-right: 10px; Background-color:#ffffff;}
+
+.tekstwazny
+
+{FONT-SIZE: 13px; LINE-HEIGHT: 14px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none;
+padding-top: 30px; padding-bottom: 10px; padding-left: 20px; padding-right: 20px;}
+
+
+.sponsor 
+
+{HEIGHT: 30px; 
+padding-top: 15px; padding-bottom: 15px; padding-left: 10px; padding-right: 10px; Background-color:#ffffff;}
+
+
+
+.zaproszony 
+
+
+{FONT-SIZE: 12px; font-weight:bold;  font-stretch: condensed;
+LINE-HEIGHT: 18px; FONT-FAMILY: Arial, Helvetica, sans-serif; color:#776644;
+padding-top: 5px; padding-bottom: 2px; padding-left: 10px; padding-right: 10px; }
+
+.nieznany
+
+{FONT-SIZE: 15px; LINE-HEIGHT: 20px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none;
+padding-top: 15px; padding-bottom: 15px; padding-left: 15px; padding-right: 15px;Background-color:#ffffff;}
+
+
+
+.naglowek1 
+
+{FONT-SIZE: 25px; LINE-HEIGHT: 14px; Background-color:#ffff99; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none;  FONT-WEIGHT: bold; padding-top: 20px; padding-bottom: 10px; padding-left: 20px; padding-right: 10px; 
+}
+
+.boki
+{Background-color:#ffffff;}
+
+.opis
+{Background-color:#ddbb55;
+FONT-SIZE: 10px; LINE-HEIGHT: 14px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none;
+padding-top: 5px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; link:#000000;}
+
+.nastepne
+{Background-color:#ffffcc;FONT-SIZE: 10px; LINE-HEIGHT: 14px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none;
+ link:#000000;}
+
+.przyszle
+{Background-color:#eedd66;FONT-SIZE: 10px; LINE-HEIGHT: 14px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none;
+ link:#000000;}
+
+.przeszle
+{Background-color:#ffffcc;FONT-SIZE: 10px; LINE-HEIGHT: 14px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none;
+ link:#000000;}
+
+
+
+
+
+.naglowek2 
+
+{FONT-SIZE: 12px; LINE-HEIGHT: 14px; Background-color:#ffffff; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none;  FONT-WEIGHT: bold; padding-top: 20px; padding-bottom: 0px; padding-left: 10px; padding-right: 10px;border-bottom: 1px solid #ffbb33;}
+
+
+.obrazek 
+
+{padding-top: 10px; padding-bottom: 10px; padding-left: 40px;
+}
+
+
+
+BODY 
+
+{MARGIN: 0px; BACKGROUND-COLOR: #ffffff; }
+
+
+
