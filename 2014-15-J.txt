@@ -1,0 +1,348 @@
+
+<HTML><HEAD><TITLE>Working group in applications of set theory</TITLE>
+
+
+<LINK   href="style.css" type=text/css rel=stylesheet>
+
+</HEAD>
+<BODY >
+
+<table bgcolor="ffffff" border="0" width="100%" cellpadding="40" cellspacing="0">
+ <tr>
+ <td>
+   <table bgcolor="ffffff" border="0" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+    <td width="90%" valign="top" class=naglowek1>  impan seminar: <p>
+working group in applications of set theory
+    </td>
+    <td width="10%" valign="top" >  
+      <table width=100%  border="0" cellpadding="15" cellspacing="0">
+       <tr>
+        <td width=100%  class=boki > <img src="spacer.gif">
+        </td> 
+       </tr>
+       <tr>
+        <td width=100%  class=boki > <img src="spacer.gif">
+        </td> 
+       </tr>
+       <tr>
+        <td width=100% class=opis > <img src="spacer.gif">
+        <p><br><p><br>
+        </td>
+       </tr>
+      </table>
+    </td>
+    </tr>
+    </table>
+
+
+   <table bgcolor="ffffff" border="0" width="100%" cellpadding="20" cellspacing="0">
+    <tr>
+     <td width=40% class=boki><img src="spacer.gif">
+     </td>
+     <td width=60% class=opis><img src="spacer.gif">
+     </td>
+    </tr>
+   </table>
+
+   <table bgcolor="ffffff" border="0" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+     <td width=60% valign="top">
+
+       <table class=nastepne width=100% border="1" cellpadding="20"cellspacing="0">
+        <tr>
+        <td>
+
+
+<strong>THE FIRST SEMESTR 2014-15</strong>
+<p>
+
+
+<strong></strong><br>
+
+
+        </td>
+        </tr>
+       </table>
+
+       <table class=nastepne border="0" width=100% cellpadding="20" cellspacing="0">
+        <tr>
+        <td width=66% cellpadding="20" class=boki><img src="spacer.gif">
+        </td>
+        <td width=34% cellpadding="20" class=opis><img src="spacer.gif">
+        </td>
+        </tr>
+       </table>
+
+       <table class=przyszle width=100% border="1" cellpadding="20" cellspacing="0">
+        <tr>
+        <td>
+
+
+
+  <strong> Previous talks this semester: </strong><br>
+<p>
+<br>
+<strong>January 29th, 2015, Omar Selim (USP) - 11<sup>15</sup> room 105:</strong>
+<p>
+<strong>Title: An abstract version of Choquet's theorem</strong><br>
+Abstract: I will discuss an abstract version of Choquet’s theorem
+concerning the existence of Borel measures that are realised by
+capacities of infinite order. The version stated here concerns only
+Boolean algebras and the classical result concerning particular
+locally compact topological spaces follows. I will also discuss some
+possible applications.
+
+<strong></strong><br>
+<p>
+
+<strong>November 27th, Grzegorz Plebanek (Wroc&#322;aw) - 11<sup>15</sup> room 105:</strong>
+<p>
+
+<strong>Title: Weak* separability in C(K)*</strong><br>
+Abstract: The plan is to recall some older results on weak* separability 
+in the spaces of the form C(K)* as well as a recent result due to Aviles, Rodriguez and myself:
+
+There is  a compact space K such that the space C(K)* is weak* separable but its  unit ball is not.
+
+(Talagrand's construction of such a space K required CH, ours is in ZFC). 
+Finally,  we shall discuss a related open problem on the  Baire measurability of the ball in C(K).
+
+<p>
+<br>
+<strong>November 20th, Leandro Candido (IMPAN/USP) - 11<sup>15</sup> room 105:</strong>
+<p>
+<strong>Some Banach spaces satisfying a pointwise chain condition in the weak topology</strong><br>
+Abstract:  The talk is about  a ZFC example by Dow, H. Junilla and J. Pelant of a Banach space C(K), K scattered of countable height, such that
+every linear bounded operator from C(K) into c<sub>0</sub>(&omega;<sub>1</sub>) has separable range.
+These are  examples 2.15 and 2.16 of  Dow, A.; Junnila, H.; Pelant, J. Chain conditions and weak topologies. Topology Appl. 156 (2009), no. 7, 1327-1344.
+<br>
+This should be compared with a result of Todorcevic which says that under Martin's Maximum
+every Banach space of density &omega;<sub>1</sub> admits a bounded linear operator into c<sub>0</sub>(&omega;<sub>1</sub>)
+with nonseparable range. This is subsequently used by Todorcevic to prove that MM implies that every nonseparable
+Banach space has an uncountable biorthogonal system and that every Banach space of density &omega;<sub>1</sub> has a separable quotient.
+
+
+<p>
+<br>
+<strong>November 13th, Michal Doucha (IMPAN/IMPACT) - 11<sup>15</sup> room 105:</strong>
+<p>
+<strong>Introduction to Lipschitz-free Banach spaces</strong><br>
+
+Abstract:  Lipschitz-free spaces are Banach spaces constructed from metric spaces which are characterized by the universal 
+property that Lipschitz maps from the starting metric space into some Banach space uniquely 
+extend into linear operators with the same Lipschitz constant. 
+Their norm is a variant of the Kantorovich transportation distance 
+which is a concept that penetrated many areas of mathematics. 
+Alternatively, one can view them as certain preduals of Banach spaces of real-valued Lipschitz functions on metric spaces.
+
+I will present both of these views and show their equivalence. 
+Then I will proceed to basic properties of these spaces and show some examples.
+Finally, I will focus on problems that people have been recently studying on these spaces, 
+namely approximation properties of these spaces. That is related to the problem of linear extension of Lipschitz maps on metric spaces.
+
+<p>
+<br>
+<strong>November 6th, Micha&#322; &#346;wi&#281;tek (Ph. D. student UJ/WCMCS-IM PAN) - 11<sup>15</sup> room 105:</strong>
+<p>
+<strong>Continuation of the talk of 23.10.2014.</strong>
+<p>
+<br>
+<strong>October 30th - Marek Cuth (WCMCS-IM PAN) - 11<sup>15</sup> room 105:</strong>
+<p>
+<strong>Elementary submodels in Banach space theory</strong><br>
+Abstract:  The method of elementary submodels can be viewed as a
+ tool of set theory which enables us to handle very complicated inductive constructions.
+ I will present how elementary submodels can be used in Banach space theory. 
+More precisely: in 1993 Argyros and Mercourakis introduced a class of Banach spaces called 
+weakly Lindelof determined (WLD). It appeared that this class of WLD Banach spaces 
+has many nice properties and it is possible to find nice characterizations of it. 
+I will present how elementary submodels
+ can be used in order to prove some of those characterizations and prove a
+ characterization of WLD spaces in terms of elementary submodels.
+<p>
+<br>
+
+<strong>October 23rd, Micha&#322; &#346;wi&#281;tek  (Ph. D. student UJ/WCMCS-IM PAN) - 11<sup>15</sup> room 105:</strong>
+<p>
+<strong>Exotic Banach spaces via Boolean algebras and Stone spaces</strong><br>
+Abstract: One of the oldest questions in the theory of Banach spaces was
+ whether every Banach space is isomorphic to its hyperplanes.
+ This was answered negatively by Gowers and Mauray.
+During my talk I will present a construction of a 
+classical C(K) space, based on the paper Piotr Koszmider, Banach spaces of continuous functions with few operators.
+ Math. Ann. 330 (2004), no. 1, 151–183, which also answers the above question negatively.
+
+
+<p>
+<br>
+<strong>October 16th, Gabriel Salazar (IMPAN) - 11<sup>15</sup> room 105:</strong>
+<p>
+<strong>Some Applications of Shelah's Black Box</strong><br>
+Abstract:Shelah’s Black Box is a combinatorial principle that allows us
+ to partially predict a given map under specific cardinal conditions. 
+Very roughly speaking, if you can get a result using Jensen’s Diamond 
+Principle then you can get a weak version of it in ZFC using the Black Box. 
+In this talk I will present some algebraic constructions realized by means of this principle, 
+focusing in the combinatorial aspect behind them.
+<p>
+<br>
+<p>
+<br>
+<p>
+
+<p>
+<br>
+<p>
+<br>
+<p>
+<br>
+<br>
+<p>
+<br>
+<p>
+<br>
+<p>
+<br>
+<p><strong> <a class=link href="2013-14-W.html">Talks in the second semester of 2013-14.</a></strong>
+<p><strong> <a class=link href="2013-14-J.html">Talks in the first semester of 2013-14.</a></strong>
+<p><strong> <a class=link href="2012-13-W.html">Talks in the second semester of 2012-13.</a></strong>
+<p><strong> <a class=link href="2012-13-J.html">Talks in the first semester of 2012-13.</a></strong>
+<p><strong> <a class=link href="2011-12-W.html">Talks in the second semester of 2011-12.</a></strong>
+<p><strong> <a class=link href="2011-12-J.html">Talks in the first semester of 2011-12.</a></strong>
+
+        </td>
+        </tr>
+       </table>
+
+       <table class=boki width=100% border="0" cellpadding="20" cellspacing="0">
+        <tr>
+        <td>
+        </td>
+        </tr>
+       </table>
+
+
+     </td>
+     <td width=40% valign="top">
+
+       <table class=opis width=100% border="0" cellpadding="20">
+        <tr>
+        <td>
+
+<strong>Time and place:</strong> Thursdays  11.15-13.00 am,  room 105, Sniadeckich 8<p>
+<p>
+               <strong>The scope of the seminar: </strong>
+Set-theoretic combinatorial and topological  methods in diverse fields of mathematics, with a special emphasis on abstract analysis like
+  Banach spaces, Banach algebras, C*-algebras, Here we include both the developing of such methods as 
+forcing, descriptive set theory, Ramsey theory as well as their concrete applications in the fields mentioned above.
+<p>
+
+<strong>Working group style: </strong> We will make efforts so that this seminar has
+ more a working character rather than the presentation style. This means that we encourage long digressions,
+ discussions, background preparations and participation of everyone. 
+ We would like to immerse ourselves into the details of the mathematical arguments studied. 
+Also the talks are usualy  devoted to research in progress or fascinating results leading to some project not yet resolved.
+While ready final results could be presented at other seminars at IM PAN or UW.
+<p>
+
+<p>
+
+<strong> Participants this semester so far:</strong><br>
+        <p>
+<ul>
+<li> Leandro Candido (IM PAN/USP)
+<li> Marek Cuth (WCMCS-IM PAN)
+<li> Michal Doucha (IMPACT/IM PAN)
+
+
+<li> Tomasz Kochanek (IM PAN/UW)
+<li> Piotr Koszmider (IM PAN)
+
+<li> Maciej Malicki (SGH)
+  <li> Samuel Roth (Purdue/WCMCS-IM PAN)
+<li> Gabriel Salazar (IM PAN)
+<li> Damian Sobota (Ph. D. student IM PAN)
+<li> Micha&#322; &#346;wi&#281;tek (Ph. D. student UJ/WCMCS-IM PAN)
+<li> Micha&#322; Wojciechowski (IM PAN)
+</ul>
+        </td>
+        </tr>
+       </table>
+
+       <table class=boki width=100% border="0" cellpadding="20">
+        <tr>
+        <td>
+          <table class=przeszle width=100% border="1" cellpadding="20" cellspacing="0">
+          <tr>
+        <td>
+<strong> Forthcoming talks:</strong><br>
+<p>
+<ul>
+<strong>
+
+<li>  No more talks this semester
+
+</strong>
+</ul>
+         <p>
+
+<p>
+
+<p>
+<br>
+<ul>
+
+
+ 
+
+
+
+
+
+
+        </td>
+        </tr>
+          </table>
+        </td>
+        </tr>
+       </table>
+
+
+
+
+     </td>
+    </tr>
+   </table>
+
+
+
+
+
+
+
+    </td>
+    </tr>
+   
+   </table>
+
+
+   
+
+
+ </td>
+ </tr>
+</table>
+
+
+</BODY></HTML>
+
+
+
+
+
+
+
+
+
+

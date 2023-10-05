@@ -1,0 +1,22 @@
+<strong> Participants this semester:</strong><br>
+        <p>
+<ul>
+<li> Zofia Adamowicz (IMPAN)
+<li> Joanna Jureczko (UKSW)
+<li> Piotr Koszmider (IMPAN)
+<li> Adam Kwela (Ph. D. student IMPAN)
+<li> Micha&#322; Korch (Ph. D. student UW)
+<li> Miko&#322;aj Krupski (Ph. D. student IMPAN)
+<li> Maciej Malicki (&#321;azarski)
+<li> Henryk Michalewski (IMPAN and UW)
+<li> Przemys³aw Ohrysko (Ph. D. student IMPAN)
+   <li> Adam Skalski (IMPAN)
+<li> Tomasz Weiss (UPHS)
+<li> Micha³ Wojciechowski (IMPAN)
+<li> Rafa&#322; Zdu&#324;czyk (U&#321;)
+</ul>
+           
+
+
+
+

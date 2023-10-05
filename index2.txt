@@ -1,0 +1,58 @@
+
+<HTML><HEAD><TITLE>Working group in applications of set theory</TITLE>
+
+
+<LINK   href="style.css" type=text/css rel=stylesheet>
+
+</HEAD>
+<BODY >
+
+<table bgcolor="eeeecc" border="1" width="100%" cellpadding="40">
+ <tr>
+ <td>
+   <table bgcolor="eeeecc" border="1" width="100%" >
+    <tr>
+    <td width="90%" valign="top" class=naglowek1>  
+    </td>
+    <td width="10%" valign="top" class=boki>  
+      <table>
+       <tr>
+        <td width=100% class boki>
+        </td> 
+       </tr>
+       <tr>
+        <td width=100% class=opis>
+        <td>
+       </tr>
+      </table>
+    </td>
+    </tr>
+    </table>
+
+
+    </td>
+    </tr>
+   
+   </table>
+ <td>
+ <tr>
+</table>
+
+
+</BODY></HTML>
+
+
+
+
+           
+
+
+
+
+
+
+
+
+
+
+
